@@ -144,4 +144,6 @@ We will clone and build it from your GitHub repo. We will not get code from any 
     * 1 pt: Figure out how to turn on "Show layout bounds" in Developer options, and take a video of your device with that setting turned on. (This is helpful when debugging layout issues in your apps.)
     * 1 pt: Choose another developer option from the Developer Options screen, research what it's used for, and write up a quick paragraph (in your copy of this README file) on whether you believe you will use this feature during class this quarter.
 
+**Extra Credit Response**: Another developer option from the Developer Options screen is Debugging, specifically USB debugging. The reason why this could be useful is because based on my research, the Android Debug Bridge utility on a computer can communicate with the physical device through a USB, allowing on-device debugging. This is a feature I would possibly use during this class because this allows me to look at further information when debugging an app as normal bug reports through the physical phone may not be enough when developing and testing an app. By allowing debugging communication between the physical phone and my computer, I am able to debug more smoothly through both my computer and the device itself.
+
 When you turn in the homework in Canvas, put in the link to your GitHub repo.
